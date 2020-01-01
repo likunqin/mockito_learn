@@ -32,4 +32,7 @@ Mock 不是 Stub，两者是有区别的：
 * 前者是基于行为的验证（behavior verification），后者是基于状态的验证 （state verification）；
 * 前者使用的是模拟的对象，而后者使用的是真实的对象。
 
-摘：https://www.cnblogs.com/bodhitree/p/9456515.html
+-------
+*摘：*<br/>
+描述：[https://www.cnblogs.com/bodhitree/p/9456515.html]()<br/>
+代码：[https://www.cnblogs.com/Ming8006/p/6297333.html]()
